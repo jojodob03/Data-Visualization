@@ -1,3 +1,3 @@
 # Data-Visualization
 *Hello test*
-**Bye** Conflict
+**Bye** No Conflict
